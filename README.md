@@ -11,8 +11,15 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-orange" />
-  <img src="https://img.shields.io/badge/Built%20With-Bash-black" />
+  <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS-orange?logo=linux" />
+  <img src="https://img.shields.io/badge/Built%20With-Bash-black?logo=shell" />
+  <img src="https://img.shields.io/badge/Containerization-Docker-blue?logo=docker" />
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-blue?logo=kubernetes" />
+  <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20Ansible-red?logo=terraform,ansible" />
+  <img src="https://img.shields.io/badge/CI-Jenkins%20%7C%20GitLab Runner-violet" />
+  <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%7C%20Grafana%20%7C%20ELK-purple" />
+  <img src="https://img.shields.io/badge/Security-SonarQube%20%7C%20Trivy-brown" />
+  <img src="https://img.shields.io/badge/Cloud CLI-AWS CLI%20%7C%20Azure CLI%20%7C%20GCloud-orange" />
   <img src="https://img.shields.io/badge/Tools-15%2B-green" />
   <img src="https://img.shields.io/badge/license-MIT-blue" />
 </p>
