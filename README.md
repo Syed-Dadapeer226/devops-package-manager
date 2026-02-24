@@ -30,7 +30,7 @@
 
 DevOps Package Manager is a modular, production-ready command-line tool that installs and manages essential DevOps infrastructure tools.
 
-No more copying 40-step installation docs.
+No more copying 40-steps installation docs.
 
 ---
 
